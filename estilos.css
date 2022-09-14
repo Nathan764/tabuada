@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+    background-image: url(https://images.unsplash.com/photo-1636953056323-9c09fdd74fa6?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 28px;
+}
+
+.meio{
+    align-items: center;
+}
+
+#saida{
+    text-align: center;
+    font-size: 28px;
+    color:aliceblue
+}
+
+strong{
+    color: red;
+}
